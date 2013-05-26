@@ -1,0 +1,24 @@
+Partlist
+
+Exported from NancyProgrammer.brd at 5/25/2013 7:25:58 PM
+Edited by Logxen at 2013/05/25 10:21 PM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                Package                Library                    Position (inch)       Orientation
+
+C1       0.1uF                0603-CAP               SparkFun-Capacitors        (0.225 0.7)           MR0
+C2       0.1uF                0603-CAP               SparkFun-Capacitors        (0.225 0.6)           MR0
+C3       0.1uF                0603-CAP               SparkFun-Capacitors        (0.3 0.15)            MR0
+LED      Green 20mA           CHIPLED_0603_NOOUTLINE microbuilder               (0.15625 0.13125)     R90
+R2       330 Ohm              0402-RES               SparkFun-Resistors         (0.15625 0.21875)     MR180
+S1       Up                   TACTILE_SWITCH_SMD     SparkFun-Electromechanical (0.3625 0.45)         R0
+S2       Down                 TACTILE_SWITCH_SMD     SparkFun-Electromechanical (0.3625 0.10625)      R180
+U$1      FCI 10118192-0001LF  USB-MICROB-RECEPT      logxen                     (0.3 0.8)             R180
+U1       LM3480IM3-3.3/NOPB   SOT23-3                SparkFun-PowerIC           (0.375 0.65)          MR90
+U2       ATTINY24A-MU         QFN20                  SparkFun-DigitalIC         (0.3 0.3)             MR0
+
+JP1      2.54mm Female Header 1X08                   SparkFun-Connectors        (0.55 0.75)           MR270
+JP2      2.54mm Female Header 1X08                   SparkFun-Connectors        (0.05 0.05)           MR90
